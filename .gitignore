@@ -1,0 +1,16 @@
+.DS_STORE
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+.idea
+.vscode
+
+.cache
+.ruff_cache
+.mypy_cache
+
+poetry.lock
+
+testing.py
