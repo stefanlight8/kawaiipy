@@ -6,6 +6,10 @@ authors = ["stefanlight <64615032+stefanlight8@users.noreply.github.com>"]
 license = "MIT"
 readme = "README.md"
 
+[tool.poetry.urls]
+repository = "https://github.com/stefanlight8/kawaiipy"
+"Issue Tracker" = "https://github.com/stefanlight8/kawaiipy/issues"
+
 [tool.poetry.dependencies]
 python = "^3.10,<3.13"
 aiohttp = "^3.9.5"
