@@ -1,8 +1,7 @@
 kawaiipy – async wrapper for [Kawaii API](https://kawaii.red/).
 
 ### Install
-> ![NOTE]
-> 
+> [!NOTE]
 > Python 3.10 or higher required!
 
 ```py
