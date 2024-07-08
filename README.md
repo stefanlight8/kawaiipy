@@ -5,9 +5,10 @@ kawaiipy – async wrapper for [Kawaii API](https://kawaii.red/).
 pip install kawaiipy
 ```
 
-### Use example
+### Usage example
 ```py
-import kawaiipy
+import asyncio
+from kawaiipy import KawaiiAPI
 
 api: KawaiiAPI = KawaiiAPI()
 
@@ -19,7 +20,8 @@ async def main() -> None:
 
 
 if __name__ == "__main__":
-    asyncio.run(main)
+    asyncio.run(main())
+
 ```
 
 ### Recommendation
